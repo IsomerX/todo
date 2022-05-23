@@ -1,0 +1,6 @@
+query Links {
+  links {
+    title
+    id
+  }
+}
